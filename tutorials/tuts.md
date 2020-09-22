@@ -6,6 +6,6 @@
 - [x] CVS By Tutorial
 - [ ] 50 shades of white
 - [x] white balls
-- [ ] You are learning Git Next Generation
+- [x] You are learning Git Next Generation
 - [ ] 50 Shades of Blue
 - [x] Dark 
