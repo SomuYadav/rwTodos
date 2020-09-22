@@ -1,6 +1,7 @@
 # This is my stuff
 - [ ] I am somendra Yadav And who are you?
 - [ ] This Book is Awesome
+- [x] This Book is Awesome
 - [ ] CVS By Tutorial
 - [x] CVS By Tutorial
 - [ ] 50 shades of white
