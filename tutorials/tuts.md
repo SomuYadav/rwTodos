@@ -1,2 +1,9 @@
 # This is my stuff
-- [ ] I am somendra Yadav And who are you? 
+- [ ] I am somendra Yadav And who are you?
+- [ ] This Book is Awesome
+- [ ] CVS By Tutorial
+- [x] CVS By Tutorial
+- [ ] 50 shades of white
+- [x] white balls
+- [ ] You are learning Git Next Generation
+- [ ] 50 Shades of Blue
